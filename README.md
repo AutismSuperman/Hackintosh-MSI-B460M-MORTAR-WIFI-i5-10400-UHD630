@@ -6,7 +6,7 @@ macOS Big Sur 11.5 + OpenCore 0.6.9
 
 | 组件 | 名称                                   |
 | ---- | -------------------------------------- |
-| CPU  | i7 10700                               |
+| CPU  | i5 10400                               |
 | 主板 | 微星MAG B460M MORTAR WIFI |
 | iGPU | Intel UHD Graphics 630                 |
 | 显卡 | RX560               |
