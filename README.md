@@ -4,7 +4,7 @@
 
 **如果使用该EFI,切记请更换三码！！！**
 
-macOS Ventura 13.2.1 + OpenCore 0.8.9
+macOS Ventura 13.5 + OpenCore 0.9.3
 
 | 组件 | 名称                      |
 | ---- |-------------------------|
